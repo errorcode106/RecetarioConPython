@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1000,
+        "nombre": "\u00f1oquis",
+        "ingredientes": "papa, harina, sal, agua",
+        "preparacion": "hervir la papa, mezclar la harina con el agua y luego con la papa",
+        "imagen": "C:/Users/Dan/Desktop/RecetarioConPython/imagenes/nioquis.jpg",
+        "tiempoPreparacion": "30",
+        "tiempoCoccion": "30",
+        "fechaCreacion": "2023-03-31"
+    },
+    {
+        "id": 1001,
+        "nombre": "Papas Fritas",
+        "ingredientes": "papas, sal, aceite",
+        "preparacion": "pelar fritar",
+        "imagen": "C:/Users/Dan/Desktop/RecetarioConPython/imagenes/papasfritas.jpg",
+        "tiempoPreparacion": "15",
+        "tiempoCoccion": "30",
+        "fechaCreacion": "2023-03-31"
+    },
+    {
+        "id": 1002,
+        "nombre": "Pollo al horno",
+        "ingredientes": "pollo, sal papas",
+        "preparacion": "salar el pollo y enviar al horno ",
+        "imagen": "C:/Users/Dan/Desktop/RecetarioConPython/imagenes/polloalhorno.jpg",
+        "tiempoPreparacion": "20",
+        "tiempoCoccion": "30",
+        "fechaCreacion": "2023-03-31"
+    },
+    {
+        "id": 1003,
+        "nombre": "patito",
+        "ingredientes": "hola mundo",
+        "preparacion": "fadsfds",
+        "imagen": "",
+        "tiempoPreparacion": "32",
+        "tiempoCoccion": "324",
+        "fechaCreacion": "2023-03-27"
+    }
+]
